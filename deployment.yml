@@ -22,4 +22,4 @@ spec:
     spec:
       containers:
        - name: app
-         image: leaddevops/kubeserve:v5
+         image: leaddevops/kubeserve:v6
